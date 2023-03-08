@@ -24,7 +24,7 @@ Node.js dan npm
 1. Clone repositori ini:
 
 ```bash
-git clone https://github.com/laravel/breeze.git
+git clone git@github.com:wanrimanullang/simple-weather-with-laravel-breeze-vue.git
 ```
 
 2. Masuk ke direktori yang telah diunduh dan pasang dependensi PHP menggunakan Composer:
